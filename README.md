@@ -1,4 +1,4 @@
-Analista de Desenvolvimento Web com mais de 12 anos de experiencia. 
+Analista Sênior de Desenvolvimento Web e Mobile com mais de 12 anos de experiencia. 
 Atualmente trabalhando como Arquiteto Frontend, Desenvolvimento Mobile e Definição de Padrões de Projetos backend.
 
 Conheça mais em:
